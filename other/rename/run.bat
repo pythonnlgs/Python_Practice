@@ -1,0 +1,1 @@
+python D:\Sublime_Text_output\py\ÖØÃüÃû\a.py
